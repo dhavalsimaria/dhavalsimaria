@@ -1,6 +1,7 @@
 # Namaste :pray:, I am Dhaval Simaria 👋 <br>
 
 [![LinkedIn: Dhaval Simaria](https://img.shields.io/badge/-Dhaval%20Simaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhavalsimaria/)](https://www.linkedin.com/in/dhavalsimaria/)
+[![StackOverflow](https://img.shields.io/badge/-Dhaval%20Simaria-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/3957225/dhaval-simaria)](https://stackoverflow.com/users/3957225/dhaval-simaria)
 
 Learner in Computer Science and big enthusiast of open-source technologies.
 
