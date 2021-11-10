@@ -1,4 +1,8 @@
-### Hi there 👋
+# Namaste :pray:, I am Dhaval Simaria 👋 <br>
+
+Learner in Computer Science and big enthusiast of open-source technologies.
+
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalsimaria&theme=vue-dark)](https://github.com/dhavalsimaria/github-readme-stats)
 
 <!--
 **dhavalsimaria/dhavalsimaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
